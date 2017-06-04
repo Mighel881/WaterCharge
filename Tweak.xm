@@ -8,6 +8,7 @@ Based on JRMBubbleTutorial from Caroline Harrison on GitHub
 URL: https://github.com/carleihar/JRMBubbleTutorial
 Thanks much appreciated :) 
 
+And many thanks to Bryan Antigua for BAFluidView :)
 
 */
 
