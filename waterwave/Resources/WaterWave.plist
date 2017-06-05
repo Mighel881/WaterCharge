@@ -12,7 +12,7 @@
 			<key>headerCellClass</key>
 			<string>HBPackageNameHeaderCell</string>
 			<key>icon</key>
-			<string>WaterWave.png</string>
+			<string>WaterCharge.png</string>
 			<key>packageIdentifier</key>
 			<string>com.ikilledappl3.waterwave</string>
 		</dict>

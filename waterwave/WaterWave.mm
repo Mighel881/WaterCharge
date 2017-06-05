@@ -17,11 +17,11 @@ static NSString *waterWaveImage = @"/Library/Application Support/WaterWave/Water
 }
 
 + (UIColor *)hb_tintColor {
-    return [UIColor colorWithRed:0.0/255.0 green:0.0/255.0 blue:255.0/255.0 alpha:1.0];
+    return [UIColor colorWithRed:0.0/255.0 green:119.0/255.0 blue:190.0/255.0 alpha:1.0];
 }
 
 - (void)shareTapped {
-    NSString *text = [NSString stringWithFormat:@"Fishy why are you sleeping??? Just kidding add a cool charging effect to your device with WaterWave by @iKilledAppl3"];
+    NSString *text = [NSString stringWithFormat:@"Fishy why are you sleeping? Add a cool charging effect to your device with WaterCharge by @iKilledAppl3! http://toxicappl3inc.github.io/repo/"];
     
     UIImage *image = [UIImage imageWithContentsOfFile:waterWaveImage];
     NSArray * itemsToShare = @[text, image];

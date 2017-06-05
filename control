@@ -3,7 +3,9 @@ Name: WaterCharge
 Depends: mobilesubstrate, ws.hbang.common
 Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Cool water effect while charging!
+Depiction: http://ikilledappl3.com/dp/WaterWave/
+Icon: http://www.ikilledappl3.com/dp/WaterWave/WaterCharge@3.png
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Section: Tweaks
